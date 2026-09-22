@@ -13,7 +13,7 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 mkdir -p "$MODEL_DIR"
 
 python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
 
 fetch() {
   local name="$1" min_bytes="$2"
