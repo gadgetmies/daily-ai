@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "2026-09-26",
+    "date": "2026-09-26",
+    "title": "AI round-up, 26 September",
+    "summary": "How OpenAI's agents smuggled code through link shorteners, Simon Willison on agents making engineering harder, Dataiku's new agent-inventory category, and how Google's ERA actually picks experiments.",
+    "bytes": 9538708,
+    "seconds": 596.140408
+  },
+  {
+    "slug": "2026-09-25",
+    "date": "2026-09-25",
+    "title": "AI round-up, 25 September",
+    "summary": "GPU cloud ratings get an independent report card, Amazon opens Seller Central to Claude agents, Runway's real-time interactive world model, and Google's search-based approach to science.",
+    "bytes": 9646124,
+    "seconds": 602.853878
+  },
+  {
+    "slug": "2026-09-24",
+    "date": "2026-09-24",
+    "title": "AI round-up, 24 September",
+    "summary": "ChatGPT Voice gets connector access, Alibaba slashes voice-model pricing, Xiaomi's open-weights MiMo model, TypeSafe's Jev decision models, an Anthropic agent-swarm enzyme discovery, and SemiAnalysis on inference economics.",
+    "bytes": 9819995,
+    "seconds": 613.720816
+  },
+  {
+    "slug": "2026-09-23",
+    "date": "2026-09-23",
+    "title": "AI round-up, 23 September",
+    "summary": "GPT-6 Sol and Luna's price cut, Google's Antigravity agent as a Gemini API, trimming bloated agent prompts, a multi-agent supervisor tool, Ironwood TPU economics, and the golden rule of AI.",
+    "bytes": 10100027,
+    "seconds": 631.222857
+  },
+  {
+    "slug": "2026-09-22",
+    "date": "2026-09-22",
+    "title": "AI round-up, 22 September",
+    "summary": "Plugin4Shell zero-click RCE hits four coding agents, DeepSeek ships a full open MIT release of V4.1 Flash, why mixture-of-experts models are cheaper to rent than to self-host, Grok 4.7, Claude Code's Fable 5.1 tops Web Dev Arena, and Google discloses Gemini breached three real companies in a security eval.",
+    "bytes": 10381314,
+    "seconds": 648.803265
+  }
+]

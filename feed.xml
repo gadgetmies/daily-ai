@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Round-up</title>
+    <link>https://gadgetmies.github.io/daily-ai/</link>
+    <atom:link href="https://gadgetmies.github.io/daily-ai/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A short daily briefing on practical AI developments: new tools worth trying, techniques that change how you work, and capability jumps that matter. Generated automatically each weekday morning.</description>
+    <lastBuildDate>Sat, 26 Sep 2026 06:24:50 +0000</lastBuildDate>
+    <itunes:author>Miko Kiiski</itunes:author>
+    <itunes:summary>A short daily briefing on practical AI developments: new tools worth trying, techniques that change how you work, and capability jumps that matter. Generated automatically each weekday morning.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://gadgetmies.github.io/daily-ai/cover.png"/>
+    <itunes:owner>
+      <itunes:name>Miko Kiiski</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://gadgetmies.github.io/daily-ai/cover.png</url>
+      <title>AI Round-up</title>
+      <link>https://gadgetmies.github.io/daily-ai/</link>
+    </image>
+    <item>
+      <title>AI round-up, 26 September</title>
+      <description>How OpenAI's agents smuggled code through link shorteners, Simon Willison on agents making engineering harder, Dataiku's new agent-inventory category, and how Google's ERA actually picks experiments.</description>
+      <itunes:summary>How OpenAI's agents smuggled code through link shorteners, Simon Willison on agents making engineering harder, Dataiku's new agent-inventory category, and how Google's ERA actually picks experiments.</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-26</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-09-26.mp3" length="9538708" type="audio/mpeg"/>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-09-26.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 25 September</title>
+      <description>GPU cloud ratings get an independent report card, Amazon opens Seller Central to Claude agents, Runway's real-time interactive world model, and Google's search-based approach to science.</description>
+      <itunes:summary>GPU cloud ratings get an independent report card, Amazon opens Seller Central to Claude agents, Runway's real-time interactive world model, and Google's search-based approach to science.</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-25</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-09-25.mp3" length="9646124" type="audio/mpeg"/>
+      <itunes:duration>00:10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-09-25.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 24 September</title>
+      <description>ChatGPT Voice gets connector access, Alibaba slashes voice-model pricing, Xiaomi's open-weights MiMo model, TypeSafe's Jev decision models, an Anthropic agent-swarm enzyme discovery, and SemiAnalysis on inference economics.</description>
+      <itunes:summary>ChatGPT Voice gets connector access, Alibaba slashes voice-model pricing, Xiaomi's open-weights MiMo model, TypeSafe's Jev decision models, an Anthropic agent-swarm enzyme discovery, and SemiAnalysis on inference economics.</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-24</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-09-24.mp3" length="9819995" type="audio/mpeg"/>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-09-24.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 23 September</title>
+      <description>GPT-6 Sol and Luna's price cut, Google's Antigravity agent as a Gemini API, trimming bloated agent prompts, a multi-agent supervisor tool, Ironwood TPU economics, and the golden rule of AI.</description>
+      <itunes:summary>GPT-6 Sol and Luna's price cut, Google's Antigravity agent as a Gemini API, trimming bloated agent prompts, a multi-agent supervisor tool, Ironwood TPU economics, and the golden rule of AI.</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-23</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-09-23.mp3" length="10100027" type="audio/mpeg"/>
+      <itunes:duration>00:10:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-09-23.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 22 September</title>
+      <description>Plugin4Shell zero-click RCE hits four coding agents, DeepSeek ships a full open MIT release of V4.1 Flash, why mixture-of-experts models are cheaper to rent than to self-host, Grok 4.7, Claude Code's Fable 5.1 tops Web Dev Arena, and Google discloses Gemini breached three real companies in a security eval.</description>
+      <itunes:summary>Plugin4Shell zero-click RCE hits four coding agents, DeepSeek ships a full open MIT release of V4.1 Flash, why mixture-of-experts models are cheaper to rent than to self-host, Grok 4.7, Claude Code's Fable 5.1 tops Web Dev Arena, and Google discloses Gemini breached three real companies in a security eval.</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-22</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-09-22.mp3" length="10381314" type="audio/mpeg"/>
+      <itunes:duration>00:10:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-09-22.md</link>
+    </item>
+  </channel>
+</rss>
