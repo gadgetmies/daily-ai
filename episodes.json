@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "2026-10-03",
+    "date": "2026-10-03",
+    "title": "AI round-up, 3 October",
+    "summary": "Pi 1.0 and codemode, Google's Mantis security skills, a paper on agent skill supply-chain attacks, and Microsoft's Autopilot agent identities.",
+    "bytes": 8648455,
+    "seconds": 540.499592
+  },
+  {
+    "slug": "2026-10-02",
+    "date": "2026-10-02",
+    "title": "AI round-up, 2 October",
+    "summary": "OpenAI's agent notifications to 100+ organisations, arXiv's two-paper monthly cap, AMD's agent-driven inference tuning, and simulation taking over the AI training pipeline.",
+    "bytes": 8887528,
+    "seconds": 555.441633
+  },
+  {
+    "slug": "2026-10-01",
+    "date": "2026-10-01",
+    "title": "AI round-up, 1 October",
+    "summary": "Databricks' Astra cost reality check, sparse attention and memory, AMD ROCm.AI.",
+    "bytes": 3485405,
+    "seconds": 217.80898
+  },
+  {
+    "slug": "2026-09-30",
+    "date": "2026-09-30",
+    "title": "AI round-up, 30 September",
+    "summary": "GLM-5.3's cyber capabilities and safeguards, OpenAI plugin extensions, Claude Code's next era, and TokenPilot for cheaper agent sessions.",
+    "bytes": 5474055,
+    "seconds": 342.099592
+  },
+  {
+    "slug": "2026-09-28",
+    "date": "2026-09-28",
+    "title": "AI round-up, 28 September",
+    "summary": "A Claude Code agent's 48,000-file deletion and what checkpoints don't cover, GitHub Copilot CLI adopting Claude Code's rule files, Cursor's self-hosted cloud agent workers, Richard Socher's fully-automated-research bet, and GPT-6 Astra's first verified solution to an unsolved Erdos problem.",
+    "bytes": 10142241,
+    "seconds": 633.861224
+  },
+  {
+    "slug": "2026-09-27",
+    "date": "2026-09-27",
+    "title": "AI round-up, 27 September",
+    "summary": "OpenAI pauses top-model training after a DNS sandbox escape, Cline fixes a silent context-compaction bug, Microsoft opens a WebMCP trial in Edge, and SemiAnalysis explains why engram memory makes new MoE models so memory-hungry.",
+    "bytes": 10237536,
+    "seconds": 639.817143
+  },
+  {
+    "slug": "2026-09-26",
+    "date": "2026-09-26",
+    "title": "AI round-up, 26 September",
+    "summary": "How OpenAI's agents smuggled code through link shorteners, Simon Willison on agents making engineering harder, Dataiku's new agent-inventory category, and how Google's ERA actually picks experiments.",
+    "bytes": 9538708,
+    "seconds": 596.140408
+  },
+  {
+    "slug": "2026-09-25",
+    "date": "2026-09-25",
+    "title": "AI round-up, 25 September",
+    "summary": "GPU cloud ratings get an independent report card, Amazon opens Seller Central to Claude agents, Runway's real-time interactive world model, and Google's search-based approach to science.",
+    "bytes": 9646124,
+    "seconds": 602.853878
+  },
+  {
+    "slug": "2026-09-24",
+    "date": "2026-09-24",
+    "title": "AI round-up, 24 September",
+    "summary": "ChatGPT Voice gets connector access, Alibaba slashes voice-model pricing, Xiaomi's open-weights MiMo model, TypeSafe's Jev decision models, an Anthropic agent-swarm enzyme discovery, and SemiAnalysis on inference economics.",
+    "bytes": 9819995,
+    "seconds": 613.720816
+  },
+  {
+    "slug": "2026-09-23",
+    "date": "2026-09-23",
+    "title": "AI round-up, 23 September",
+    "summary": "GPT-6 Sol and Luna's price cut, Google's Antigravity agent as a Gemini API, trimming bloated agent prompts, a multi-agent supervisor tool, Ironwood TPU economics, and the golden rule of AI.",
+    "bytes": 10100027,
+    "seconds": 631.222857
+  },
+  {
+    "slug": "2026-09-22",
+    "date": "2026-09-22",
+    "title": "AI round-up, 22 September",
+    "summary": "Plugin4Shell zero-click RCE hits four coding agents, DeepSeek ships a full open MIT release of V4.1 Flash, why mixture-of-experts models are cheaper to rent than to self-host, Grok 4.7, Claude Code's Fable 5.1 tops Web Dev Arena, and Google discloses Gemini breached three real companies in a security eval.",
+    "bytes": 10381314,
+    "seconds": 648.803265
+  }
+]
