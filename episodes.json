@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "2026-10-31",
+    "date": "2026-10-31",
+    "title": "AI round-up, 31 October",
+    "summary": "Mistral Large 4 weights land, Gemini API now stores requests by default, refusal-stripped open cyber models, and two deadlines.",
+    "bytes": 5669660,
+    "seconds": 354.324898
+  },
+  {
+    "slug": "2026-10-29",
+    "date": "2026-10-29",
+    "title": "AI round-up, 29 October",
+    "summary": "Gemini 4 Carbon's gated cyber-defender launch, the open IQuest-Q1 CLI-agent model, and deadlines for DeepSeek's free APIs and Kimi weights.",
+    "bytes": 5500804,
+    "seconds": 343.771429
+  },
+  {
+    "slug": "2026-10-28",
+    "date": "2026-10-28",
+    "title": "AI round-up, 28 October",
+    "summary": "OpenAI's claimed disproof of the Exponential Time Hypothesis, Entire's Git Forge for agents, and the still-unconfirmed GPT-6.1 Terra.",
+    "bytes": 6257311,
+    "seconds": 391.053061
+  },
+  {
+    "slug": "2026-10-27",
+    "date": "2026-10-27",
+    "title": "AI round-up, 27 October",
+    "summary": "MCP goes stateless, Kimi K3.1 Pro pricing and weights follow-up, the GPT-6.1 Terra rumour, and OpenAI's task-crossover research.",
+    "bytes": 6323766,
+    "seconds": 395.206531
+  },
+  {
+    "slug": "2026-10-26",
+    "date": "2026-10-26",
+    "title": "AI round-up, 26 October",
+    "summary": "Microsoft's orchestrator-free Agensh, parallel agents in ChatGPT Pro, Google's privacy policy change, banks blocking agents, and the DHS DeepSeek order.",
+    "bytes": 8858688,
+    "seconds": 553.639184
+  },
+  {
+    "slug": "2026-10-24",
+    "date": "2026-10-24",
+    "title": "AI round-up, 24 October",
+    "summary": "Agent Skills moves to the Linux Foundation, Claude Code mods, speculative execution for agents, the Vero verified-software benchmark, and Kimi K3 cyber evaluation.",
+    "bytes": 8867048,
+    "seconds": 554.161633
+  },
+  {
+    "slug": "2026-10-23",
+    "date": "2026-10-23",
+    "title": "AI round-up, 23 October",
+    "summary": "Claude Duet, four projects join the Agentic AI Foundation, Walmart's Agent Gateway, Mistral Voxtral 3, MiniMax M3.1 Flash, and Microsoft's Guardian Agents.",
+    "bytes": 9507779,
+    "seconds": 594.207347
+  },
+  {
+    "slug": "2026-10-20",
+    "date": "2026-10-20",
+    "title": "AI round-up, 20 October",
+    "summary": "An agent-driven breach spree of 100+ companies, OpenAI's COBOL gains, Nvidia Nemotron 3.5 Super VL and Bolt, Microsoft's agent risk controls, and agent-to-agent negotiation.",
+    "bytes": 8660994,
+    "seconds": 541.283265
+  },
+  {
+    "slug": "2026-10-19",
+    "date": "2026-10-19",
+    "title": "AI round-up, 19 October",
+    "summary": "DeepSeek V4.1 Flash 1017 open weights, websites blocking third-party agents, CERT-In's agent access advisory, and DeepSeek's Engram memory idea.",
+    "bytes": 8485033,
+    "seconds": 530.285714
+  },
+  {
+    "slug": "2026-10-18",
+    "date": "2026-10-18",
+    "title": "AI round-up, 18 October",
+    "summary": "Databricks' Astra spend jump, megakernels and the decode bandwidth floor, SemiAnalysis on paying for speed, and agent context compression.",
+    "bytes": 8229242,
+    "seconds": 514.298776
+  },
+  {
+    "slug": "2026-10-17",
+    "date": "2026-10-17",
+    "title": "AI round-up, 17 October",
+    "summary": "Reflection's Beam weights ship with token-penalty training, companies cap per-engineer agent spend, White House incident-reporting follow-up, and two early agent-safety papers.",
+    "bytes": 7386636,
+    "seconds": 461.635918
+  },
+  {
+    "slug": "2026-10-16",
+    "date": "2026-10-16",
+    "title": "AI round-up, 16 October",
+    "summary": "Meta's open-weight Muse Spark Open, OpenCode 2.0 Code Mode, OpenAI Dots permissions, and a study on agents failing at open-ended research.",
+    "bytes": 8192044,
+    "seconds": 511.973878
+  },
+  {
+    "slug": "2026-10-15",
+    "date": "2026-10-15",
+    "title": "AI round-up, 15 October",
+    "summary": "Harvard study on coding agents producing more code but not more shipped work, the GPT-5.5 retirement from ChatGPT and Codex, and GPT-6.1 Sol pricing and Ultrafast.",
+    "bytes": 5531315,
+    "seconds": 345.678367
+  },
+  {
+    "slug": "2026-10-14",
+    "date": "2026-10-14",
+    "title": "AI round-up, 14 October",
+    "summary": "Anthropic dynamic workflows, Sonnet 5.5 cache read price cut, Xiaomi's reward-hacking defences, and Vera Rubin agentic inference economics.",
+    "bytes": 8924726,
+    "seconds": 557.766531
+  },
+  {
+    "slug": "2026-10-13",
+    "date": "2026-10-13",
+    "title": "AI round-up, 13 October (security edition)",
+    "summary": "Codex and LiteLLM fall at Pwn2Own, Microsoft's agent sandbox goes GA, Cline 4.0 rolls back, and Meta's Muse Spark 1.3.",
+    "bytes": 6637653,
+    "seconds": 414.82449
+  },
+  {
+    "slug": "2026-10-12",
+    "date": "2026-10-12",
+    "title": "AI round-up, 12 October",
+    "summary": "Grok 4.7's cost per task versus its price per token, and Google's universal Gemini agent for work.",
+    "bytes": 4045471,
+    "seconds": 252.813061
+  },
+  {
+    "slug": "2026-10-11",
+    "date": "2026-10-11",
+    "title": "AI round-up, 11 October",
+    "summary": "Anthropic's unintended-actions report, Deno joining Cloudflare, Liquid AI's d1 decision models, and Epoch's InnovationEval.",
+    "bytes": 8579910,
+    "seconds": 536.21551
+  },
+  {
+    "slug": "2026-10-10",
+    "date": "2026-10-10",
+    "title": "AI round-up, 10 October",
+    "summary": "Fail-closed hooks in Claude Code 2.1.295, subagent compaction in 2.1.296, HackerRank's Chakra AI interviewer, and a paper on hidden agent failures.",
+    "bytes": 6493875,
+    "seconds": 405.838367
+  },
+  {
+    "slug": "2026-10-06",
+    "date": "2026-10-06",
+    "title": "AI round-up, 6 October",
+    "summary": "Claude Cowork moves to the cloud, Cloudflare's rebuilt agent sandboxes, LangSmith fine-tuning from traces, and two papers on why agents' self-reports can't be trusted.",
+    "bytes": 6560749,
+    "seconds": 410.017959
+  },
+  {
+    "slug": "2026-10-04",
+    "date": "2026-10-04",
+    "title": "AI round-up, 4 October",
+    "summary": "OpenAI scraps GPT-6.1 Astra over scope and honesty failures, Willison on hard budget caps, AWS Strands Decider 2B, Microsoft MAI voice models, Atria Dawn Preview, Claude Code 2.1.288, and Meta's Muse Charm.",
+    "bytes": 9127854,
+    "seconds": 570.462041
+  },
+  {
+    "slug": "2026-10-03",
+    "date": "2026-10-03",
+    "title": "AI round-up, 3 October",
+    "summary": "Pi 1.0 and codemode, Google's Mantis security skills, a paper on agent skill supply-chain attacks, and Microsoft's Autopilot agent identities.",
+    "bytes": 8648455,
+    "seconds": 540.499592
+  },
+  {
+    "slug": "2026-10-02",
+    "date": "2026-10-02",
+    "title": "AI round-up, 2 October",
+    "summary": "OpenAI's agent notifications to 100+ organisations, arXiv's two-paper monthly cap, AMD's agent-driven inference tuning, and simulation taking over the AI training pipeline.",
+    "bytes": 8887528,
+    "seconds": 555.441633
+  },
+  {
+    "slug": "2026-10-01",
+    "date": "2026-10-01",
+    "title": "AI round-up, 1 October",
+    "summary": "Databricks' Astra cost reality check, sparse attention and memory, AMD ROCm.AI.",
+    "bytes": 3485405,
+    "seconds": 217.80898
+  },
+  {
+    "slug": "2026-09-30",
+    "date": "2026-09-30",
+    "title": "AI round-up, 30 September",
+    "summary": "GLM-5.3's cyber capabilities and safeguards, OpenAI plugin extensions, Claude Code's next era, and TokenPilot for cheaper agent sessions.",
+    "bytes": 5474055,
+    "seconds": 342.099592
+  },
+  {
+    "slug": "2026-09-28",
+    "date": "2026-09-28",
+    "title": "AI round-up, 28 September",
+    "summary": "A Claude Code agent's 48,000-file deletion and what checkpoints don't cover, GitHub Copilot CLI adopting Claude Code's rule files, Cursor's self-hosted cloud agent workers, Richard Socher's fully-automated-research bet, and GPT-6 Astra's first verified solution to an unsolved Erdos problem.",
+    "bytes": 10142241,
+    "seconds": 633.861224
+  },
+  {
+    "slug": "2026-09-27",
+    "date": "2026-09-27",
+    "title": "AI round-up, 27 September",
+    "summary": "OpenAI pauses top-model training after a DNS sandbox escape, Cline fixes a silent context-compaction bug, Microsoft opens a WebMCP trial in Edge, and SemiAnalysis explains why engram memory makes new MoE models so memory-hungry.",
+    "bytes": 10237536,
+    "seconds": 639.817143
+  },
+  {
+    "slug": "2026-09-26",
+    "date": "2026-09-26",
+    "title": "AI round-up, 26 September",
+    "summary": "How OpenAI's agents smuggled code through link shorteners, Simon Willison on agents making engineering harder, Dataiku's new agent-inventory category, and how Google's ERA actually picks experiments.",
+    "bytes": 9538708,
+    "seconds": 596.140408
+  },
+  {
+    "slug": "2026-09-25",
+    "date": "2026-09-25",
+    "title": "AI round-up, 25 September",
+    "summary": "GPU cloud ratings get an independent report card, Amazon opens Seller Central to Claude agents, Runway's real-time interactive world model, and Google's search-based approach to science.",
+    "bytes": 9646124,
+    "seconds": 602.853878
+  },
+  {
+    "slug": "2026-09-24",
+    "date": "2026-09-24",
+    "title": "AI round-up, 24 September",
+    "summary": "ChatGPT Voice gets connector access, Alibaba slashes voice-model pricing, Xiaomi's open-weights MiMo model, TypeSafe's Jev decision models, an Anthropic agent-swarm enzyme discovery, and SemiAnalysis on inference economics.",
+    "bytes": 9819995,
+    "seconds": 613.720816
+  },
+  {
+    "slug": "2026-09-23",
+    "date": "2026-09-23",
+    "title": "AI round-up, 23 September",
+    "summary": "GPT-6 Sol and Luna's price cut, Google's Antigravity agent as a Gemini API, trimming bloated agent prompts, a multi-agent supervisor tool, Ironwood TPU economics, and the golden rule of AI.",
+    "bytes": 10100027,
+    "seconds": 631.222857
+  }
+]
