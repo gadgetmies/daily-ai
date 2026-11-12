@@ -12,8 +12,17 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 
 mkdir -p "$MODEL_DIR"
 
-python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+# Use the interpreter that synth.py runs under: on some images the bare `pip`
+# belongs to a different Python than `python3`, so packages land in the wrong
+# site-packages. docopt (pulled in via num2words) is setup.py-only and cannot
+# be built in pip's isolated build env, so install it first against the system
+# setuptools with build isolation off.
+PIP="python3 -m pip install --break-system-packages -q"
+python3 -c "import kokoro_onnx, soundfile, misaki" 2>/dev/null || {
+  python3 -c "import docopt" 2>/dev/null || \
+    SETUPTOOLS_USE_DISTUTILS=stdlib $PIP --no-build-isolation docopt
+  SETUPTOOLS_USE_DISTUTILS=stdlib $PIP kokoro-onnx soundfile "misaki[en]"
+}
 
 fetch() {
   local name="$1" min_bytes="$2"
