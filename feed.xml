@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Round-up</title>
+    <link>https://gadgetmies.github.io/daily-ai/</link>
+    <atom:link href="https://gadgetmies.github.io/daily-ai/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>A short daily briefing on practical AI developments: new tools worth trying, techniques that change how you work, and capability jumps that matter. Generated automatically each weekday morning.</description>
+    <lastBuildDate>Sat, 14 Nov 2026 06:19:16 +0000</lastBuildDate>
+    <itunes:author>Miko Kiiski</itunes:author>
+    <itunes:summary>A short daily briefing on practical AI developments: new tools worth trying, techniques that change how you work, and capability jumps that matter. Generated automatically each weekday morning.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://gadgetmies.github.io/daily-ai/cover.png"/>
+    <itunes:owner>
+      <itunes:name>Miko Kiiski</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://gadgetmies.github.io/daily-ai/cover.png</url>
+      <title>AI Round-up</title>
+      <link>https://gadgetmies.github.io/daily-ai/</link>
+    </image>
+    <item>
+      <title>AI round-up, 14 November</title>
+      <description>OpenAI Daybreak Red Team and Defense Factory, ChatGPT Wallet and the Commerce Partner Playbook, World Labs opens Atlas and its API, OpenCode 2.3 and Codex CLI 0.169, AgentRun, and research on harmful success in coding agents and zero-shot coordination.</description>
+      <itunes:summary>OpenAI Daybreak Red Team and Defense Factory, ChatGPT Wallet and the Commerce Partner Playbook, World Labs opens Atlas and its API, OpenCode 2.3 and Codex CLI 0.169, AgentRun, and research on harmful success in coding agents and zero-shot coordination.</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-14</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-14.mp3" length="12998156" type="audio/mpeg"/>
+      <itunes:duration>00:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-14.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 13 November</title>
+      <description>Gemini 4 Hydrogen, Claude Code Code Mode and permission fixes, Amazon's Strands Decider cost report, the fragile-codebase essay and the activity-outcome gap, Inkling 2 Small open weights, and BuySideFlow's point-in-time audit.</description>
+      <itunes:summary>Gemini 4 Hydrogen, Claude Code Code Mode and permission fixes, Amazon's Strands Decider cost report, the fragile-codebase essay and the activity-outcome gap, Inkling 2 Small open weights, and BuySideFlow's point-in-time audit.</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-13</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-13.mp3" length="13916413" type="audio/mpeg"/>
+      <itunes:duration>00:14:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-13.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 12 November</title>
+      <description>Gemini Decisions API and decision models, AWS Emulator built by agents, Railway's $740k stolen-key report, Chrome Modern Web Guidance 1.0, Qwen4-Max-Preview, and DeepMind's AlphaProof Code verifying Signal.</description>
+      <itunes:summary>Gemini Decisions API and decision models, AWS Emulator built by agents, Railway's $740k stolen-key report, Chrome Modern Web Guidance 1.0, Qwen4-Max-Preview, and DeepMind's AlphaProof Code verifying Signal.</itunes:summary>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-12</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-12.mp3" length="14121213" type="audio/mpeg"/>
+      <itunes:duration>00:14:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-12.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 11 November</title>
+      <description>Fireworks AI breach widens, Google's Elephant-Goldfish spec-review plugin, Gemini 4 Carbon opens to the paid API, AgentScript-Eval on skills as docs versus plugins, and TPUv7 agentic inference results.</description>
+      <itunes:summary>Fireworks AI breach widens, Google's Elephant-Goldfish spec-review plugin, Gemini 4 Carbon opens to the paid API, AgentScript-Eval on skills as docs versus plugins, and TPUv7 agentic inference results.</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-11</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-11.mp3" length="12503293" type="audio/mpeg"/>
+      <itunes:duration>00:13:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-11.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 10 November</title>
+      <description>Claude Fable 5.2 pricing and migration traps, long-horizon agent demos, why multi-agent teams hold experts back, Honeycomb AI SRE agents.</description>
+      <itunes:summary>Claude Fable 5.2 pricing and migration traps, long-horizon agent demos, why multi-agent teams hold experts back, Honeycomb AI SRE agents.</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-10</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-10.mp3" length="8772589" type="audio/mpeg"/>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-10.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 9 November</title>
+      <description>DeepMind agents find weaknesses in 1024-bit RSA, Codex CLI agent command centre, Baidu ERNIE 5.5 Flash Base open weights, Perplexity Teammates, and Anthropic's science-usage study.</description>
+      <itunes:summary>DeepMind agents find weaknesses in 1024-bit RSA, Codex CLI agent command centre, Baidu ERNIE 5.5 Flash Base open weights, Perplexity Teammates, and Anthropic's science-usage study.</itunes:summary>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-09</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-09.mp3" length="8233422" type="audio/mpeg"/>
+      <itunes:duration>00:08:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-09.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 8 November</title>
+      <description>DigitalOcean Cuttlefish phone approvals, Google Agent Registry and Gateway, Redis Iris expansion, plus Cursor and Opus fast-mode deadlines.</description>
+      <itunes:summary>DigitalOcean Cuttlefish phone approvals, Google Agent Registry and Gateway, Redis Iris expansion, plus Cursor and Opus fast-mode deadlines.</itunes:summary>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-08</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-08.mp3" length="6162852" type="audio/mpeg"/>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-08.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 6 November</title>
+      <description>Microsoft Execution Containers for agents, CrowdStrike's gateway-first AI Kill Switch, and where agent controls should live.</description>
+      <itunes:summary>Microsoft Execution Containers for agents, CrowdStrike's gateway-first AI Kill Switch, and where agent controls should live.</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-06</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-06.mp3" length="6570362" type="audio/mpeg"/>
+      <itunes:duration>00:06:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-06.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 5 November</title>
+      <description>Kimi K3.1 Pro weights land, GPT-6.2 Astra spotted in Codex, Anthropic's monitor red-team, and DOE Genesis agent skills.</description>
+      <itunes:summary>Kimi K3.1 Pro weights land, GPT-6.2 Astra spotted in Codex, Anthropic's monitor red-team, and DOE Genesis agent skills.</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-05.mp3" length="9364001" type="audio/mpeg"/>
+      <itunes:duration>00:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-05.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 4 November</title>
+      <description>Claude API message threads, GitHub Copilot connectors, OpenAI's Cursor cutoff, MIT weight-space programming, and Anthropic's research-acceleration filing.</description>
+      <itunes:summary>Claude API message threads, GitHub Copilot connectors, OpenAI's Cursor cutoff, MIT weight-space programming, and Anthropic's research-acceleration filing.</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-04</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-04.mp3" length="8499244" type="audio/mpeg"/>
+      <itunes:duration>00:08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-04.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 3 November</title>
+      <description>Token cost of frontend frameworks, an agent-chosen gene therapy in a mouse, Kimi K3.1 Pro weights due tomorrow, and Opus 5.5 architecture claims.</description>
+      <itunes:summary>Token cost of frontend frameworks, an agent-chosen gene therapy in a mouse, Kimi K3.1 Pro weights due tomorrow, and Opus 5.5 architecture claims.</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-03</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-03.mp3" length="5506238" type="audio/mpeg"/>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-03.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 2 November</title>
+      <description>A trojanized Claude Code extension in Cursor, Anthropic's Max and Ultra plan changes, Kimi K3.1 Pro weights due Wednesday, probing agents before they leak, and a rethink of Neural Thickets.</description>
+      <itunes:summary>A trojanized Claude Code extension in Cursor, Anthropic's Max and Ultra plan changes, Kimi K3.1 Pro weights due Wednesday, probing agents before they leak, and a rethink of Neural Thickets.</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-02</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-02.mp3" length="7825911" type="audio/mpeg"/>
+      <itunes:duration>00:08:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-02.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 1 November</title>
+      <description>Claude Code write-fencing and idle compaction, Opus 4.8 fast mode removal, Kimi K3.1 weights pending, and agent memory costs.</description>
+      <itunes:summary>Claude Code write-fencing and idle compaction, Opus 4.8 fast mode removal, Kimi K3.1 weights pending, and agent memory costs.</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-01</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-11-01.mp3" length="6485516" type="audio/mpeg"/>
+      <itunes:duration>00:06:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-11-01.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 31 October</title>
+      <description>Mistral Large 4 weights land, Gemini API now stores requests by default, refusal-stripped open cyber models, and two deadlines.</description>
+      <itunes:summary>Mistral Large 4 weights land, Gemini API now stores requests by default, refusal-stripped open cyber models, and two deadlines.</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-31</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-31.mp3" length="5669660" type="audio/mpeg"/>
+      <itunes:duration>00:05:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-31.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 29 October</title>
+      <description>Gemini 4 Carbon's gated cyber-defender launch, the open IQuest-Q1 CLI-agent model, and deadlines for DeepSeek's free APIs and Kimi weights.</description>
+      <itunes:summary>Gemini 4 Carbon's gated cyber-defender launch, the open IQuest-Q1 CLI-agent model, and deadlines for DeepSeek's free APIs and Kimi weights.</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-29</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-29.mp3" length="5500804" type="audio/mpeg"/>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-29.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 28 October</title>
+      <description>OpenAI's claimed disproof of the Exponential Time Hypothesis, Entire's Git Forge for agents, and the still-unconfirmed GPT-6.1 Terra.</description>
+      <itunes:summary>OpenAI's claimed disproof of the Exponential Time Hypothesis, Entire's Git Forge for agents, and the still-unconfirmed GPT-6.1 Terra.</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-28.mp3" length="6257311" type="audio/mpeg"/>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-28.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 27 October</title>
+      <description>MCP goes stateless, Kimi K3.1 Pro pricing and weights follow-up, the GPT-6.1 Terra rumour, and OpenAI's task-crossover research.</description>
+      <itunes:summary>MCP goes stateless, Kimi K3.1 Pro pricing and weights follow-up, the GPT-6.1 Terra rumour, and OpenAI's task-crossover research.</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-27</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-27.mp3" length="6323766" type="audio/mpeg"/>
+      <itunes:duration>00:06:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-27.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 26 October</title>
+      <description>Microsoft's orchestrator-free Agensh, parallel agents in ChatGPT Pro, Google's privacy policy change, banks blocking agents, and the DHS DeepSeek order.</description>
+      <itunes:summary>Microsoft's orchestrator-free Agensh, parallel agents in ChatGPT Pro, Google's privacy policy change, banks blocking agents, and the DHS DeepSeek order.</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-26</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-26.mp3" length="8858688" type="audio/mpeg"/>
+      <itunes:duration>00:09:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-26.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 24 October</title>
+      <description>Agent Skills moves to the Linux Foundation, Claude Code mods, speculative execution for agents, the Vero verified-software benchmark, and Kimi K3 cyber evaluation.</description>
+      <itunes:summary>Agent Skills moves to the Linux Foundation, Claude Code mods, speculative execution for agents, the Vero verified-software benchmark, and Kimi K3 cyber evaluation.</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-24</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-24.mp3" length="8867048" type="audio/mpeg"/>
+      <itunes:duration>00:09:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-24.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 23 October</title>
+      <description>Claude Duet, four projects join the Agentic AI Foundation, Walmart's Agent Gateway, Mistral Voxtral 3, MiniMax M3.1 Flash, and Microsoft's Guardian Agents.</description>
+      <itunes:summary>Claude Duet, four projects join the Agentic AI Foundation, Walmart's Agent Gateway, Mistral Voxtral 3, MiniMax M3.1 Flash, and Microsoft's Guardian Agents.</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-23</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-23.mp3" length="9507779" type="audio/mpeg"/>
+      <itunes:duration>00:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-23.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 20 October</title>
+      <description>An agent-driven breach spree of 100+ companies, OpenAI's COBOL gains, Nvidia Nemotron 3.5 Super VL and Bolt, Microsoft's agent risk controls, and agent-to-agent negotiation.</description>
+      <itunes:summary>An agent-driven breach spree of 100+ companies, OpenAI's COBOL gains, Nvidia Nemotron 3.5 Super VL and Bolt, Microsoft's agent risk controls, and agent-to-agent negotiation.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-20</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-20.mp3" length="8660994" type="audio/mpeg"/>
+      <itunes:duration>00:09:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-20.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 19 October</title>
+      <description>DeepSeek V4.1 Flash 1017 open weights, websites blocking third-party agents, CERT-In's agent access advisory, and DeepSeek's Engram memory idea.</description>
+      <itunes:summary>DeepSeek V4.1 Flash 1017 open weights, websites blocking third-party agents, CERT-In's agent access advisory, and DeepSeek's Engram memory idea.</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-19</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-19.mp3" length="8485033" type="audio/mpeg"/>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-19.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 18 October</title>
+      <description>Databricks' Astra spend jump, megakernels and the decode bandwidth floor, SemiAnalysis on paying for speed, and agent context compression.</description>
+      <itunes:summary>Databricks' Astra spend jump, megakernels and the decode bandwidth floor, SemiAnalysis on paying for speed, and agent context compression.</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-18</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-18.mp3" length="8229242" type="audio/mpeg"/>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-18.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 17 October</title>
+      <description>Reflection's Beam weights ship with token-penalty training, companies cap per-engineer agent spend, White House incident-reporting follow-up, and two early agent-safety papers.</description>
+      <itunes:summary>Reflection's Beam weights ship with token-penalty training, companies cap per-engineer agent spend, White House incident-reporting follow-up, and two early agent-safety papers.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-17</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-17.mp3" length="7386636" type="audio/mpeg"/>
+      <itunes:duration>00:07:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-17.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 16 October</title>
+      <description>Meta's open-weight Muse Spark Open, OpenCode 2.0 Code Mode, OpenAI Dots permissions, and a study on agents failing at open-ended research.</description>
+      <itunes:summary>Meta's open-weight Muse Spark Open, OpenCode 2.0 Code Mode, OpenAI Dots permissions, and a study on agents failing at open-ended research.</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-16</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-16.mp3" length="8192044" type="audio/mpeg"/>
+      <itunes:duration>00:08:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-16.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 15 October</title>
+      <description>Harvard study on coding agents producing more code but not more shipped work, the GPT-5.5 retirement from ChatGPT and Codex, and GPT-6.1 Sol pricing and Ultrafast.</description>
+      <itunes:summary>Harvard study on coding agents producing more code but not more shipped work, the GPT-5.5 retirement from ChatGPT and Codex, and GPT-6.1 Sol pricing and Ultrafast.</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-15</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-15.mp3" length="5531315" type="audio/mpeg"/>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-15.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 14 October</title>
+      <description>Anthropic dynamic workflows, Sonnet 5.5 cache read price cut, Xiaomi's reward-hacking defences, and Vera Rubin agentic inference economics.</description>
+      <itunes:summary>Anthropic dynamic workflows, Sonnet 5.5 cache read price cut, Xiaomi's reward-hacking defences, and Vera Rubin agentic inference economics.</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-14</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-14.mp3" length="8924726" type="audio/mpeg"/>
+      <itunes:duration>00:09:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-14.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 13 October (security edition)</title>
+      <description>Codex and LiteLLM fall at Pwn2Own, Microsoft's agent sandbox goes GA, Cline 4.0 rolls back, and Meta's Muse Spark 1.3.</description>
+      <itunes:summary>Codex and LiteLLM fall at Pwn2Own, Microsoft's agent sandbox goes GA, Cline 4.0 rolls back, and Meta's Muse Spark 1.3.</itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-13</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-13.mp3" length="6637653" type="audio/mpeg"/>
+      <itunes:duration>00:06:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-13.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 12 October</title>
+      <description>Grok 4.7's cost per task versus its price per token, and Google's universal Gemini agent for work.</description>
+      <itunes:summary>Grok 4.7's cost per task versus its price per token, and Google's universal Gemini agent for work.</itunes:summary>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-12.mp3" length="4045471" type="audio/mpeg"/>
+      <itunes:duration>00:04:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-12.md</link>
+    </item>
+    <item>
+      <title>AI round-up, 11 October</title>
+      <description>Anthropic's unintended-actions report, Deno joining Cloudflare, Liquid AI's d1 decision models, and Epoch's InnovationEval.</description>
+      <itunes:summary>Anthropic's unintended-actions report, Deno joining Cloudflare, Liquid AI's d1 decision models, and Epoch's InnovationEval.</itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-11</guid>
+      <enclosure url="https://gadgetmies.github.io/daily-ai/episodes/2026-10-11.mp3" length="8579910" type="audio/mpeg"/>
+      <itunes:duration>00:08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://gadgetmies.github.io/daily-ai/episodes/2026-10-11.md</link>
+    </item>
+  </channel>
+</rss>
