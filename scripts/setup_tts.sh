@@ -12,8 +12,11 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 
 mkdir -p "$MODEL_DIR"
 
+# Use "python3 -m pip": a bare "pip" can belong to a different Python than
+# python3 (seen: pip on 3.13, python3 on 3.11), which then lacks setuptools.
 python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+  { python3 -m pip install --break-system-packages -q setuptools wheel && \
+    SETUPTOOLS_USE_DISTUTILS=stdlib python3 -m pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"; }
 
 fetch() {
   local name="$1" min_bytes="$2"
