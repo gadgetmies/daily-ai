@@ -12,8 +12,15 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 
 mkdir -p "$MODEL_DIR"
 
-python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+# Use `python3 -m pip`, not bare `pip`: on some images `pip` belongs to a
+# different interpreter than `python3`. docopt (a misaki dependency) ships only
+# an sdist whose isolated build fails under Debian's patched setuptools, so build
+# it against the system setuptools first.
+if ! python3 -c "import kokoro_onnx, soundfile" 2>/dev/null; then
+  export SETUPTOOLS_USE_DISTUTILS=stdlib
+  python3 -m pip install --break-system-packages -q --no-build-isolation docopt
+  python3 -m pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+fi
 
 fetch() {
   local name="$1" min_bytes="$2"
