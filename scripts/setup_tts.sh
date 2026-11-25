@@ -12,8 +12,14 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 
 mkdir -p "$MODEL_DIR"
 
-python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+# Use `python3 -m pip` so packages land in the interpreter synth.py runs under
+# (the bare `pip` on PATH can belong to a different Python). Debian's patched
+# wheel breaks building the docopt sdist (a misaki dependency), so install a
+# stock wheel/setuptools first.
+if ! python3 -c "import kokoro_onnx, soundfile" 2>/dev/null; then
+  python3 -m pip install --break-system-packages -q --upgrade --ignore-installed wheel setuptools
+  python3 -m pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+fi
 
 fetch() {
   local name="$1" min_bytes="$2"
