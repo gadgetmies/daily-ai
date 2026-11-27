@@ -12,8 +12,16 @@ REL="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v
 
 mkdir -p "$MODEL_DIR"
 
-python3 -c "import kokoro_onnx, soundfile" 2>/dev/null || \
-  SETUPTOOLS_USE_DISTUTILS=stdlib pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+# Use `python3 -m pip`: a bare `pip` can belong to a different interpreter than
+# `python3` (seen: pip for 3.13, python3 is 3.11), leaving synth.py without numpy.
+# docopt (a misaki dependency) ships only an sdist that fails under build
+# isolation, so build it against the system setuptools first.
+if ! python3 -c "import kokoro_onnx, soundfile, numpy" 2>/dev/null; then
+  export SETUPTOOLS_USE_DISTUTILS=stdlib
+  python3 -m pip install --break-system-packages -q --no-build-isolation docopt
+  python3 -m pip install --break-system-packages -q kokoro-onnx soundfile "misaki[en]"
+fi
+python3 -c "import kokoro_onnx, soundfile, numpy" || { echo "TTS python deps missing" >&2; exit 1; }
 
 fetch() {
   local name="$1" min_bytes="$2"
